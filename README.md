@@ -34,3 +34,32 @@ ALUR PROGRAM :
 4. Pilihan 2 (Tambah Sayuran Baru): Program meminta user mengetikkan input untuk masing-masing atribut secara berurutan. Setelah semua input terkumpul, program akan menginstansiasi objek SayuranOrganik baru dan memasukannya ke dalam list data.
 5. Pilihan 3 (Keluar): Perulangan dihentikan (break) dan program selesai tereksekusi. Jika user memasukkan pilihan di luar 1, 2, atau 3, program akan menampilkan pesan tidak valid dan kembali memunculkan menu.
 
+
+DOKUMENTASI PROGRAM :
+
+C++
+
+<img width="1423" height="876" alt="Dokumentasi program cpp" src="https://github.com/user-attachments/assets/51a147df-ce32-414a-bab3-e5764534e2eb" />
+
+JAVA 
+
+<img width="1435" height="872" alt="Dokumentasi program java" src="https://github.com/user-attachments/assets/9c41a2b1-7629-4880-9314-9e493c394946" />
+
+PYTHON 
+
+<img width="1395" height="862" alt="Dokumentasi program python" src="https://github.com/user-attachments/assets/55748509-f53f-49b3-8c3d-f2f49ba5c1bc" />
+
+PHP 
+
+Tampilkan data : 
+
+<img width="1882" height="860" alt="Tampilkan data php" src="https://github.com/user-attachments/assets/366b1276-bdaf-4df3-97cd-3b92e8af84a0" />
+
+Tambah Data : 
+
+<img width="1800" height="865" alt="Tambah data php" src="https://github.com/user-attachments/assets/76fd2c65-aa2d-4783-81ec-0a70b97df049" />
+
+
+
+
+
