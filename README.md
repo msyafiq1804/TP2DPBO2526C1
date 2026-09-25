@@ -11,7 +11,8 @@ Terdapat 3 class:
 3. SayuranOrganik, turunan class sayuran, menambahkan atribut yang mulai khusus ada pada sayuran organik yang dijual (seperti jenis pupuk, sertifikasi, dan harga per kg).
 
 DIAGRAM KONSEP : 
-<img width="895" height="1384" alt="desain tp2 drawio" src="https://github.com/user-attachments/assets/11166944-172f-445b-af0c-9242b8a05dd0" />
+<img width="238" height="816" alt="tp2 drawio" src="https://github.com/user-attachments/assets/be9ee420-fd0a-4af5-9939-a1c35816dcef" />
+
 Alasan pemilihan class :
 1. Tanaman: Tanaman merupakan class paling umum dalam dunia pertanian, bukan hanya tanaman pangan saja, tanaman juga bisa berupa tanaman hias atau tanaman obat. Oleh karena itu, saya lebih memilih memberi atribut kandungan_gizi dan masa_panen pada class Sayuran saja, karena jika ada tanaman hias di sini tentu tidak relevan jika memakai atribut kandungan gizi.
 2. Sayuran: Kategori yang lebih spesifik dari tanaman, yaitu tumbuhan yang dikhususkan untuk konsumsi manusia. Atribut terkait bahan pangan (seperti gizi dan masa panen) baru ditambahkan pada tahap ini.
