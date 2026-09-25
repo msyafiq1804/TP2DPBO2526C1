@@ -1,9 +1,11 @@
 TUGAS PRAKTIKUM 2 DPBO
 
 JANJI : 
+
 Saya Muhammad Syafiq A dengan NIM 2500254 mengerjakan TP 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 DESKRIPSI :
+
 Program ini mengimplementasikan konsep multilevel inheritance dalam kasus Toko Sayuran Organik pada OOP.
 Terdapat 3 class:
 1. Tanaman, memiliki atribut paling umum (seperti ID, nama, dan asal daerah).
@@ -18,9 +20,9 @@ ALUR PROGRAM :
 5. Pilihan 3 (Keluar): Perulangan dihentikan (break) dan program selesai tereksekusi. Jika user memasukkan pilihan di luar 1, 2, atau 3, program akan menampilkan pesan tidak valid dan kembali memunculkan menu.
 
 Class & Atribut :
-1. Tanaman id : string  nama : string  asal_daerah : string
-2. Sayuran (extends Tanaman) kategori : string  masa_panen : int (hari)  kandungan_gizi : string
-3. SayuranOrganik (extends Sayuran) jenis_pupuk : string  sertifikasi : string  harga_per_kg : int (Rupiah)
+1. Tanaman id : string,  nama : string,  asal_daerah : string
+2. Sayuran (extends Tanaman) kategori : string,  masa_panen : int (hari),  kandungan_gizi : string
+3. SayuranOrganik (extends Sayuran) jenis_pupuk : string,  sertifikasi : string,  harga_per_kg : int (Rupiah)
 
 
 
